@@ -1,2 +1,2 @@
 # Self-Learn-ML
-Repository for self learning machine learning
+Repository for keeping track of self learned machine learning
